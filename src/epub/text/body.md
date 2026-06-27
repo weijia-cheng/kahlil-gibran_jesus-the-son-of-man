@@ -169,9 +169,9 @@ was Judas Iscariot.
 And from that day Judas became sullen and distant. And methought there
 was danger in the sockets of his eyes.
 
-<span id="2"></span>
 
-------------------------------------------------------------------------
+
+
 
 ANNA THE MOTHER OF MARY
 -----------------------
@@ -263,9 +263,9 @@ heart melts and runs into streams.
   
 Perhaps she knows what I do not know. Would that she might tell me also.
 
-<span id="3"></span>
 
-------------------------------------------------------------------------
+
+
 
 ASSAPH CALLED THE ORATOR OF TYRE
 --------------------------------
@@ -326,9 +326,9 @@ the plain.
 And in His speech there was a power that was not commanded by the
 orators of Athens or of Rome.
 
-<span id="4"></span>
 
-------------------------------------------------------------------------
+
+
 
 MARY MAGDALENE
 --------------
@@ -449,9 +449,9 @@ things to their foundations?
 I knew not, but on that day the sunset of His eyes slew the dragon in
 me, and I became a woman, I became Miriam, Miriam of Mijdel.
 
-<span id="5"></span>
 
-------------------------------------------------------------------------
+
+
 
 PHILEMON A GREEK APOTHECARY
 ---------------------------
@@ -508,9 +508,9 @@ rather than medicine.
 And pity it is that the greatest of all their physicians chose rather to
 be but a maker of speeches in the market-place.
 
-<span id="6"></span>
 
-------------------------------------------------------------------------
+
+
 
 SIMON WHO WAS CALLED PETER
 --------------------------
@@ -669,9 +669,9 @@ Thus for the first time I knew my Lord and Master.
   
 And though it was many years ago, it still seems but of today.
 
-<span id="7"></span>
 
-------------------------------------------------------------------------
+
+
 
 CAIAPHAS
 --------
@@ -714,9 +714,9 @@ dust. And ere Judea shall die I will cover my grey head with ashes even
 as did Samuel the prophet, and I will tear off this garment of Aaron and
 clothe me in sackcloth until I go hence for ever.
 
-<span id="8"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOANNA THE WIFE OF HEROD’S STEWARD
 ----------------------------------
@@ -760,9 +760,9 @@ and the scentless blossoms breathed fragrance into my nostrils. I became
 a woman without a tainted memory, and I was free, and my head was no
 longer bowed down.
 
-<span id="9"></span>
 
-------------------------------------------------------------------------
+
+
 
 RAFCA
 -----
@@ -857,9 +857,9 @@ And now even to this day in our village and in the villages near by, the
 word of our guest is still remembered. And they say, “The spirit of
 Jesus of Nazareth is the best and the oldest wine.”
 
-<span id="10"></span>
 
-------------------------------------------------------------------------
+
+
 
 A PERSIAN PHILOSOPHER IN DAMASCUS
 ---------------------------------
@@ -928,9 +928,9 @@ But my God is the God of Zoroaster, the God who is the sun in the sky
 and fire upon the earth and light in the bosom of man. And I am content.
 I need no other God.
 
-<span id="11"></span>
 
-------------------------------------------------------------------------
+
+
 
 DAVID ONE OF HIS FOLLOWERS
 --------------------------
@@ -962,9 +962,9 @@ to have carried away all my possessions.
 For though I would guard my possessions and also my person, I know there
 lies the greater treasure.
 
-<span id="12"></span>
 
-------------------------------------------------------------------------
+
+
 
 LUKE
 ----
@@ -1029,9 +1029,9 @@ of Moses in the Sanhedrim in witness and evidence against Him.
 And they who break the law at the rise of every dawn and break it again
 at sunset, brought about His death.
 
-<span id="13"></span>
 
-------------------------------------------------------------------------
+
+
 
 MATTHEW
 -------
@@ -1172,9 +1172,9 @@ fallen like flakes that day must set and grow firm like crystals, and
 that wings that had fluttered above our heads were to beat the earth
 like iron hoofs.
 
-<span id="14"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOHN THE SON OF ZEBEDEE
 -----------------------
@@ -1266,9 +1266,9 @@ In my heart dwells Jesus of Galilee, the Man above men, the Poet who
 makes poets of us all, the Spirit who knocks at our door that we may
 wake and rise and walk out to meet truth naked and unencumbered.
 
-<span id="15"></span>
 
-------------------------------------------------------------------------
+
+
 
 A YOUNG PRIEST OF CAPERNAUM
 ---------------------------
@@ -1316,9 +1316,9 @@ the Romans who govern our country. Even His coming was from Nazareth, a
 town cursed by our prophets, a dunghill of the Gentiles, from which no
 good shall ever proceed.
 
-<span id="16"></span>
 
-------------------------------------------------------------------------
+
+
 
 A RICH LEVI IN THE NEIGHBOURHOOD OF NAZARETH
 --------------------------------------------
@@ -1375,9 +1375,9 @@ hand God lays His hand?
   
 Yea, how shall I know God’s hand?
 
-<span id="17"></span>
 
-------------------------------------------------------------------------
+
+
 
 A SHEPHERD IN SOUTH LEBANON
 ---------------------------
@@ -1438,9 +1438,9 @@ I was silent.
 But when I raised my head to thank Jesus, He was already walking afar
 off, and I had not the courage to follow Him.
 
-<span id="18"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOHN THE BAPTIST
 ----------------
@@ -1501,9 +1501,9 @@ Go to Jesus, and say that John of Kedron whose soul is filled with
 shadows and then emptied again, prays for Him, while the grave-digger
 stands close by, and the swordman outstretches his hand for his wages.
 
-<span id="19"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOSEPH OF ARIMATHEA
 -------------------
@@ -1673,9 +1673,9 @@ the city.
   
 And His words are graven as with chisels.
 
-<span id="20"></span>
 
-------------------------------------------------------------------------
+
+
 
 NATHANIEL
 ---------
@@ -1734,9 +1734,9 @@ companionship, speak of Jesus as a worm shining by their side.
 Yea, my heart is sickened by such men. It is the mighty hunter I would
 preach, and the mountainous spirit unconquerable.
 
-<span id="21"></span>
 
-------------------------------------------------------------------------
+
+
 
 SABA OF ANTIOCH
 ---------------
@@ -1793,9 +1793,9 @@ But Paul would prescribe our loaf and our cup.
   
 Suffer me not to turn my eyes the other way.
 
-<span id="22"></span>
 
-------------------------------------------------------------------------
+
+
 
 SALOME TO A WOMAN FRIEND
 ------------------------
@@ -1865,9 +1865,9 @@ Perhaps it was my youth
 That would not tarry here,  
 Since the God of youth was slain.  
 
-<span id="23"></span>
 
-------------------------------------------------------------------------
+
+
 
 RACHAEL A WOMAN DISCIPLE
 ------------------------
@@ -1962,9 +1962,9 @@ Friday, and the heavens were at war with the heavens?
 And felt you not when His face disappeared from our sight as if we were
 naught but memories in the mist?
 
-<span id="24"></span>
 
-------------------------------------------------------------------------
+
+
 
 CLEOPAS OF BETHROUNE
 --------------------
@@ -2017,9 +2017,9 @@ I have neither the speech nor the echo.
 I beg you to forgive me for beginning a story that I cannot end. But the
 end is not yet upon my lips. It is still a love song in the wind.
 
-<span id="25"></span>
 
-------------------------------------------------------------------------
+
+
 
 NAAMAN OF THE GADARENES
 -----------------------
@@ -2076,9 +2076,9 @@ disciple.
   
 And yet perhaps I am mistaken. I am often mistaken.
 
-<span id="26"></span>
 
-------------------------------------------------------------------------
+
+
 
 THOMAS
 ------
@@ -2138,9 +2138,9 @@ Persians and the Hindus.
 I shall go. And from this day to my last day, at dawn and at eventide, I
 shall see my Lord rising in majesty and I shall hear Him speak.
 
-<span id="27"></span>
 
-------------------------------------------------------------------------
+
+
 
 ELMADAM THE LOGICIAN
 --------------------
@@ -2178,9 +2178,9 @@ plants say? Surely they would laugh at her foolishness.
   
 Now sir, I cannot but laugh at this man and His ill-advised disciples.
 
-<span id="28"></span>
 
-------------------------------------------------------------------------
+
+
 
 ONE OF THE MARYS
 ----------------
@@ -2208,9 +2208,9 @@ He smiled as if His lips would sing at the wedding-feast.
 Yet He was sad with the sadness of the winged who will not soar above
 his comrade.
 
-<span id="29"></span>
 
-------------------------------------------------------------------------
+
+
 
 RUMANOUS A GREEK POET
 ---------------------
@@ -2266,9 +2266,9 @@ tomorrow, I have put aside my lyre and I shall keep silence. But always
 at twilight I shall hearken, and I shall listen to the Poet who is the
 sovereign of all poets.
 
-<span id="30"></span>
 
-------------------------------------------------------------------------
+
+
 
 LEVI A DISCIPLE
 ---------------
@@ -2351,9 +2351,9 @@ hand.
   
 And later Jesus and His comrades left my house for the road.
 
-<span id="31"></span>
 
-------------------------------------------------------------------------
+
+
 
 A WIDOW IN GALILEE
 ------------------
@@ -2409,9 +2409,9 @@ and unfriendly?
 Aye, I hate the Nazarene, and I shall hate Him to the end of my days,
 for He has robbed me of my first-born, my only son.
 
-<span id="32"></span>
 
-------------------------------------------------------------------------
+
+
 
 JUDAS THE COUSIN OF JESUS
 -------------------------
@@ -2493,9 +2493,9 @@ Now it was late. And I lay not far from Him, and I would fain have
 rested, but there was a hand knocking upon the gate of my sleep, and I
 lay awake until Jesus and the dawn called me again to the road.
 
-<span id="33"></span>
 
-------------------------------------------------------------------------
+
+
 
 THE MAN FROM THE DESERT
 -----------------------
@@ -2550,9 +2550,9 @@ and women without opposition? I was told that they all hate Him, yet no
 one stood before Him on that day. Had He plucked out the fangs of hate
 on His way to the court of the temple?
 
-<span id="34"></span>
 
-------------------------------------------------------------------------
+
+
 
 PETER
 -----
@@ -2592,9 +2592,9 @@ us and turned into his garden.
   
 And we followed Jesus upon the road.
 
-<span id="35"></span>
 
-------------------------------------------------------------------------
+
+
 
 MELACHI OF BABYLON AN ASTRONOMER
 --------------------------------
@@ -2669,9 +2669,9 @@ dawning, I seek the youth of Jesus.
 And for ever shall age seek youth. In me now it is knowledge that is
 seeking vision.
 
-<span id="36"></span>
 
-------------------------------------------------------------------------
+
+
 
 A PHILOSOPHER
 -------------
@@ -2716,9 +2716,9 @@ while to us it is only lisping.
 To Him the root of a buttercup was a longing towards God, while to us it
 is naught but a root.
 
-<span id="37"></span>
 
-------------------------------------------------------------------------
+
+
 
 URIAH AN OLD MAN OF NAZARETH
 ----------------------------
@@ -2779,9 +2779,9 @@ But I have no son. And mayhap I should be grateful. For what if my son
 had been an enemy of his own people, and my grey hairs were now seeking
 the dust with shame, my white beard humbled?
 
-<span id="38"></span>
 
-------------------------------------------------------------------------
+
+
 
 NICODEMUS THE POET
 ------------------
@@ -2893,9 +2893,9 @@ I have said enough. Let the deaf bury the humming of life in their dead
 ears. I am content with the sound of His lyre, which He held and struck
 while the hands of His body were nailed and bleeding.
 
-<span id="39"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOSEPH OF ARIMETHEA
 -------------------
@@ -2928,9 +2928,9 @@ He was the Lord and Master of this our earth.
 It is long since our cedar tree has fallen, but its fragrance endures,
 and will forever seek the four corners of the earth.
 
-<span id="40"></span>
 
-------------------------------------------------------------------------
+
+
 
 GEORGUS OF BEIRUT
 -----------------
@@ -2986,9 +2986,9 @@ house.”
 And as He walked away with His disciples He said, “Good-night, and may
 your house be large enough to shelter all the wanderers of the land.”
 
-<span id="41"></span>
 
-------------------------------------------------------------------------
+
+
 
 MARY MAGDALENE
 --------------
@@ -3028,9 +3028,9 @@ And because I could bear His light no more, I turned and walked away,
 but not in shame. I was only shy, and I would be alone, with His fingers
 upon the strings of my heart.
 
-<span id="42"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOTHAM OF NAZARETH TO A ROMAN
 -----------------------------
@@ -3084,9 +3084,9 @@ she may rise again, a city among the cities of the earth.
 But this He shall do without legions, nor with slaves to oar His
 galleys. He will be alone.
 
-<span id="43"></span>
 
-------------------------------------------------------------------------
+
+
 
 EPHRAIM OF JERICHO
 ------------------
@@ -3123,9 +3123,9 @@ In very truth, I myself who welcomed the guests, was not there.
 Perhaps my heart had not been an altar when I invited Him. Perhaps I
 desired another miracle.
 
-<span id="44"></span>
 
-------------------------------------------------------------------------
+
+
 
 BARCA A MERCHANT OF TYRE
 ------------------------
@@ -3181,9 +3181,9 @@ my journeys, and yet nearer than my house and my goods.
 But the young Nazarene was not a god; and it is a pity His followers
 seek to make a god of such a sage.
 
-<span id="45"></span>
 
-------------------------------------------------------------------------
+
+
 
 PHUMIAH THE HIGH PRIESTESS OF SIDON
 -----------------------------------
@@ -3251,9 +3251,9 @@ I would repeat His words to you,
 And I would tell you of His deeds,  
 For the echo of His voice is deeper than our passion.  
   
-<span id="46"></span>
 
-------------------------------------------------------------------------
+
+
 
 BENJAMIN THE SCRIBE
 -------------------
@@ -3295,9 +3295,9 @@ of the spirit.
   
 And only the kings of spirit have ruled our world.
 
-<span id="47"></span>
 
-------------------------------------------------------------------------
+
+
 
 ZACCHAEUS
 ---------
@@ -3364,9 +3364,9 @@ priests of Jerusalem?
 Neither the Romans slew Him, nor the priests. The whole world stood to
 honour Him upon that hill.
 
-<span id="48"></span>
 
-------------------------------------------------------------------------
+
+
 
 JONATHAN
 --------
@@ -3417,9 +3417,9 @@ Who knows and loves us both.
 Dip your oar, my lover,  
 And let me touch my strings.
 
-<span id="49"></span>
 
-------------------------------------------------------------------------
+
+
 
 HANNAH OF BETHSAIDA
 -------------------
@@ -3532,9 +3532,9 @@ nameless.
 But those who crossed Him in mid-stream shall be remembered for crossing
 Him in mid-stream.
 
-<span id="50"></span>
 
-------------------------------------------------------------------------
+
+
 
 MANASSEH
 --------
@@ -3567,9 +3567,9 @@ in staying His feet you give Him wings?
 I know not His enemies, yet I am certain that in their fear of a
 harmless man they have lent Him strength and made Him dangerous.
 
-<span id="51"></span>
 
-------------------------------------------------------------------------
+
+
 
 JEPHTHA OF CAESAREA
 -------------------
@@ -3625,9 +3625,9 @@ His mind. Therefore He faded into oblivion and that is His end.
 I beg you, charge not my ears with His words or His deeds. My heart is
 overfull with the prophets of old, and that is enough.
 
-<span id="52"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOHN THE BELOVED DISCIPLE
 -------------------------
@@ -3687,9 +3687,9 @@ The wind may blow and then cease, and the sea shall swell and then
 weary, but the heart of life is a sphere quiet and serene, and the star
 that shines therein is fixed for evermore.
 
-<span id="53"></span>
 
-------------------------------------------------------------------------
+
+
 
 MANNUS THE POMPEIIAN TO A GREEK
 -------------------------------
@@ -3741,9 +3741,9 @@ Do not rather our fathers still stop at the street corners to chat of
 troubles and to have a happy moment remembering the doleful end of all
 our great men?
 
-<span id="54"></span>
 
-------------------------------------------------------------------------
+
+
 
 PONTIUS PILATUS
 ---------------
@@ -3897,9 +3897,9 @@ It should not indeed be so.
   
 For Rome must needs prevail against the nightmares of our wives.
 
-<span id="55"></span>
 
-------------------------------------------------------------------------
+
+
 
 BARTHOLOMEW IN EPHESUS
 ----------------------
@@ -3946,9 +3946,9 @@ His enemies though they knew it not.
 Even now He is crowned every day by the priestesses of Artemis in the
 secret places of her temple.
 
-<span id="56"></span>
 
-------------------------------------------------------------------------
+
+
 
 MATTHEW
 -------
@@ -3988,9 +3988,9 @@ my new day.”
 Thus spoke Jesus and He walked on, and His hand was upon the prison wall
 until He passed by the Tower of David.
 
-<span id="57"></span>
 
-------------------------------------------------------------------------
+
+
 
 ANDREW
 ------
@@ -4086,9 +4086,9 @@ And only the sure of foot can give a hand to him who stumbles.
 And again and yet again I say, the bitterness of death is less bitter
 than life without Him.
 
-<span id="58"></span>
 
-------------------------------------------------------------------------
+
+
 
 A RICH MAN
 ----------
@@ -4135,9 +4135,9 @@ But I ask, at the threshold of whose house that honest vagabond could
 have left His sandals? He Himself never had a house nor a threshold; and
 often He went without sandals.
 
-<span id="59"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOHN AT PATMOS
 --------------
@@ -4263,9 +4263,9 @@ When love becomes vast love becomes wordless.
   
 And when memory is overladen it seeks the silent deep.
 
-<span id="60"></span>
 
-------------------------------------------------------------------------
+
+
 
 PETER
 -----
@@ -4304,9 +4304,9 @@ not worthy of the riches of your harvest.”
 When Jesus had said this, I was ashamed and I was silent. But I was not
 in fear, for He smiled upon me.
 
-<span id="61"></span>
 
-------------------------------------------------------------------------
+
+
 
 A COBBLER IN JERUSALEM
 ----------------------
@@ -4324,9 +4324,9 @@ Indeed were it not for what others have said to me of His teaching, I
 should not have known even so much as whether He was with Judea or
 against it.
 
-<span id="62"></span>
 
-------------------------------------------------------------------------
+
+
 
 SUZANNAH OF NAZARETH
 --------------------
@@ -4649,9 +4649,9 @@ Thus spoke Mary to me.
 And I left her and came to my house, and though the light of the day was
 spent I sat at my loom to weave more of the cloth.
 
-<span id="63"></span>
 
-------------------------------------------------------------------------
+
+
 
 JOSEPH SURNAMED JUSTUS
 ----------------------
@@ -4680,9 +4680,9 @@ shrine, a visitor who knocked at our door, a guest from a far country.
 And because He found not a gracious host, He has returned to His own
 place.
 
-<span id="64"></span>
 
-------------------------------------------------------------------------
+
+
 
 PHILIP
 ------
@@ -4728,9 +4728,9 @@ And you and I, though born again and again, shall keep them.
 And now I would go into my house, and stand an exalted beggar, at His
 door.
 
-<span id="65"></span>
 
-------------------------------------------------------------------------
+
+
 
 BIRBARAH OF YAMMOUNI
 --------------------
@@ -4772,9 +4772,9 @@ loom and the linen.
   
 But He would have none tear an inch off the woven fabric.
 
-<span id="66"></span>
 
-------------------------------------------------------------------------
+
+
 
 PILATE’S WIFE TO A ROMAN LADY
 -----------------------------
@@ -4810,9 +4810,9 @@ Him.
 He is gone beyond our senses, but of all men He is now the nearest to
 me.
 
-<span id="67"></span>
 
-------------------------------------------------------------------------
+
+
 
 A MAN OUTSIDE OF JERUSALEM
 --------------------------
@@ -4948,9 +4948,9 @@ One man longed for a kingdom in which he was to be a prince.
   
 Another man desired a kingdom in which all men shall be princes.
 
-<span id="68"></span>
 
-------------------------------------------------------------------------
+
+
 
 SARKIS AN OLD GREEK SHEPHERD CALLED THE MADMAN
 ----------------------------------------------
@@ -5034,9 +5034,9 @@ earth sang together.
   
 All this I saw in my dream, and all this I heard.
 
-<span id="69"></span>
 
-------------------------------------------------------------------------
+
+
 
 ANNAS THE HIGH PRIEST
 ---------------------
@@ -5090,9 +5090,9 @@ not conquered again, by an enemy from within.
 No man from the cursed North shall reach our Holy of Holies nor lay His
 shadow across the Ark of the Covenant.
 
-<span id="70"></span>
 
-------------------------------------------------------------------------
+
+
 
 A WOMAN ONE OF MARY’S NEIGHBOURS
 --------------------------------
@@ -5131,9 +5131,9 @@ Whither, our first Spring, and to what other fields?
 Will you return to us again?  
 Will you in your love-tide visit the barren shores of our dreams?
 
-<span id="71"></span>
 
-------------------------------------------------------------------------
+
+
 
 AHAZ THE PORTLY
 ---------------
@@ -5224,9 +5224,9 @@ If you would know more of Him, ask my daughter. She is a woman now, but
 she cherishes the memory of her girlhood. And her words are more ready
 than mine.
 
-<span id="72"></span>
 
-------------------------------------------------------------------------
+
+
 
 BARABBAS
 --------
@@ -5300,9 +5300,9 @@ His crucifixion endured but for an hour.
   
 But I shall be crucified unto the end of my years.
 
-<span id="73"></span>
 
-------------------------------------------------------------------------
+
+
 
 CLAUDIUS A ROMAN SENTINEL
 -------------------------
@@ -5356,9 +5356,9 @@ For since His unresisting death an army has risen out of the earth to
 fight for Him. . . . And He is better served by them, though dead, than
 ever Pompey or Caesar was served, though living.
 
-<span id="74"></span>
 
-------------------------------------------------------------------------
+
+
 
 JAMES THE BROTHER OF THE LORD
 -----------------------------
@@ -5569,9 +5569,9 @@ He was crucified, and His blood has made new clay of the earth.
   
 And I am living still; I am living upon the honeycomb of His sweet life.
 
-<span id="75"></span>
 
-------------------------------------------------------------------------
+
+
 
 SIMON THE CYRENE
 ----------------
@@ -5639,9 +5639,9 @@ that Beloved Man.
   
 And I feel His winged hand, here, on my left shoulder.
 
-<span id="76"></span>
 
-------------------------------------------------------------------------
+
+
 
 CYBOREA
 -------
@@ -5707,9 +5707,9 @@ than the mother of Judas.
 Go to the mother of Jesus. The sword is in her heart also; she will tell
 you of me, and you will understand.
 
-<span id="77"></span>
 
-------------------------------------------------------------------------
+
+
 
 THE WOMAN OF BYBLOS
 -------------------
@@ -5740,9 +5740,9 @@ my Beloved once lay in my dream, And was gone away in my awakening.
 I charge ye, daughters of Ashtarte, and all ye lovers of Tamouz, Bare
 your breasts and weep and comfort me, For Jesus of Nazareth is dead.
 
-<span id="78"></span>
 
-------------------------------------------------------------------------
+
+
 
 MARY MAGDALEN THIRTY YEARS LATER
 --------------------------------
@@ -5793,9 +5793,9 @@ and drink, and be filled with the dews of her space.
   
 But I know what I know, and it is enough.
 
-<span id="79"></span>
 
-------------------------------------------------------------------------
+
+
 
 A MAN FROM LEBANON
 ------------------
