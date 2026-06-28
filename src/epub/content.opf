@@ -163,7 +163,7 @@
 		<item href="text/sarkis-an-old-greek-shepherd-called-the-madman.xhtml" id="sarkis-an-old-greek-shepherd-called-the-madman.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/simon-of-cyrene.xhtml" id="simon-of-cyrene.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/simon-who-was-called-peter.xhtml" id="simon-who-was-called-peter.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/suzannah-of-nazareth-a-neighbour-of-mary.xhtml" id="suzannah-of-nazareth-a-neighbour-of-mary.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/susannah-of-nazareth-a-neighbour-of-mary.xhtml" id="susannah-of-nazareth-a-neighbour-of-mary.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-man-from-the-desert.xhtml" id="the-man-from-the-desert.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-woman-of-byblos.xhtml" id="the-woman-of-byblos.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/thomas.xhtml" id="thomas.xhtml" media-type="application/xhtml+xml"/>
@@ -237,7 +237,7 @@
 		<itemref idref="john-at-patmos.xhtml"/>
 		<itemref idref="peter-2.xhtml"/>
 		<itemref idref="a-cobbler-in-jerusalem.xhtml"/>
-		<itemref idref="suzannah-of-nazareth-a-neighbour-of-mary.xhtml"/>
+		<itemref idref="susannah-of-nazareth-a-neighbour-of-mary.xhtml"/>
 		<itemref idref="joseph-surnamed-justus.xhtml"/>
 		<itemref idref="philip.xhtml"/>
 		<itemref idref="birbarah-of-yammouni.xhtml"/>
