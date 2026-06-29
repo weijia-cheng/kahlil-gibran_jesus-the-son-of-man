@@ -47,7 +47,7 @@
 		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">A collection of short stories about Jesus of Nazareth.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>Frustrated by depictions of Jesus in Western literature, <a href="https://standardebooks.org/ebooks/khalil-gibran">Kahlil Gibran</a> wrote the short story collection <i>Jesus the Son of Man</i> in order to “bring out the portrait of Jesus” as Gibran saw him. Each story is told from the perspective of one of Jesus’s contemporaries, including not only his followers but also his enemies and indifferent observers. By emphasizing Jesus’s humanity and vigor, Gibran challenges theological and devotional depictions of Jesus that center his divinity or portray him as lowly and meek.</p>
+			&lt;p&gt;Frustrated by depictions of Jesus in Western literature, &lt;a href="https://standardebooks.org/ebooks/khalil-gibran"&gt;Kahlil Gibran&lt;/a&gt; wrote the short story collection &lt;i&gt;Jesus the Son of Man&lt;/i&gt; in order to “bring out the portrait of Jesus” as Gibran saw him. Each story is told from the perspective of one of Jesus’s contemporaries, including not only his followers but also his enemies and indifferent observers. By emphasizing Jesus’s humanity and vigor, Gibran challenges theological and devotional depictions of Jesus that center his divinity or portray him as lowly and meek.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.net.au/ebooks03/0301451h.html</dc:source>
